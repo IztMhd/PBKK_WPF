@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwSPlFY2IPWzmM3l0FPydJEe7ogOn8n7DZ2CssN3Y1bAPnwzoE7P45nXyNJWKPSCXvv8ECgKY+/EEIJfvfOrEw==",
+  "success": true,
+  "projectFilePath": "C:\\KULIAH\\Semester 6\\Pemrograman Berbasis Kerangka Kerja D\\WpfDashboard\\WpfDashboard\\WpfDashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\izzat\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
